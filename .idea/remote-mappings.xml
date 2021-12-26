@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://leqi@10.20.13.5:22/home/leqi/anaconda3/envs/pgm/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>
